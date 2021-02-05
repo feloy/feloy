@@ -24,11 +24,11 @@ Port in Golang of a workshop:
 - https://github.com/GoogleCloudPlatform/serverless-photosharing-workshop/pulls?q=is%3Apr+author%3Afeloy+is%3Aclosed
 
 Bug fixes and tests on Angular Material for AngualarJS and Angular:
-- https://github.com/angular/material
-- https://github.com/angular/components
+- https://github.com/angular/material/pulls?q=is%3Apr+author%3Afeloy+is%3Aclosed
+- https://github.com/angular/components/pulls?q=is%3Apr+author%3Afeloy+is%3Aclosed
 
 Some RxJS documentation:
-- https://github.com/ReactiveX/rxjs-docs
+- https://github.com/ReactiveX/rxjs-docs/pulls?q=is%3Apr+author%3Afeloy+is%3Aclosed
 
 A personal project, to help manage user records in social institution:
 - https://adullact.net/projects/variation
