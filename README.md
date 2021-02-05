@@ -42,5 +42,5 @@ Some pre-~~historic~~GitHub work:
 - http://www.linux-france.org/article/appli/emacs/manuel/
 - https://savannah.nongnu.org/projects/dbmanual
 
-- My tentative for the smallest commit: one bit change (Guinness World Records, do you see this?):
-https://github.com/angular/angular/pull/12961/files
+My tentative for the smallest commit: one bit change (Guinness World Records, do you see this?):
+- https://github.com/angular/angular/pull/12961/files
